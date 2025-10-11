@@ -1,24 +1,18 @@
-# 👋 Hi, I'm Binary Ash
+👋 Hi, I'm Binary Ash
 
 I'm a **Full Stack Developer** and **AI engineer** passionate about building scalable, clean, and efficient applications.
 
 ---
 
-## 💡 What I Do
-
-- **Backend:** Django | Flask | FastAPI | 
-- **Frontend:** HTMX | Alpine.js | JavaScript | React
-- **AI/ML:** Machine Learning | Deep Learning | GenAI | RAG
-- **DevOps:** CI/CD | DevOps 
-
-My Primary language is **Python**, but I also do work on C++ and Javascript projects.
+I work on backend development with Django, Flask, and FastAPI; frontend using HTMX, Alpine.js, JavaScript, and React; AI/ML projects involving Machine Learning, Deep Learning, GenAI, and RAG; and DevOps practices including CI/CD. My primary language is **Python**, but I also work on C++ and JavaScript projects.
 
 ---
 
-## 📂 Projects
+Projects
 
-### Full Stack 
-1. ![Dashboard-App](https://github.com/binaryash/Dashboard-App) - A simple and effective Flask dashboard app to boost your productivity with news, tasks, notes, events, and dark/light modes.
+**Full Stack** 
+
+1. [Dashboard-App](https://github.com/binaryash/Dashboard-App) - A simple and effective Flask dashboard app to boost your productivity with news, tasks, notes, events, and dark/light modes.
 
 ---
 
