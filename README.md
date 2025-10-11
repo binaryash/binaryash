@@ -4,6 +4,8 @@ I'm a **Full Stack Developer** and **AI engineer** passionate about building sca
 
 I work on backend development with Django, Flask, and FastAPI; frontend using HTMX, Alpine.js, JavaScript, and React; AI/ML projects involving Machine Learning, Deep Learning, GenAI, and RAG; and DevOps practices including CI/CD. My primary language is **Python**, but I also work on C++ and JavaScript projects.
 
+Portfolio: [binaryash.github.io](https://binaryash.github.io/)
+
 **Projects**
 
 
