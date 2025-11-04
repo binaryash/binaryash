@@ -1,15 +1,41 @@
 ```javascript
 const ash = {
+    name: "Ash",
+    role: ["Full Stack Engineer", "GenAI Engineer"],
+
     skills: {
-        programmingLanguages: ["javascript", "typescript", "python", "go", "rust"],
-        frontendDevelopment: ["react", "next.js", "vue", "tailwindcss", "chakra-ui"],
-        backendDevelopment: ["node.js", "express", "fastify", "golang"],
-        database: ["postgres", "mongoDB", "redis", "mysql"],
-        cloudPlatforms: ["aws", "google cloud", "azure"],
-        testing: ["jest", "cypress"],
-        toolkit: ["docker", "git", "kubernetes", "figma"],
-        os: ["windows", "linux", "macOS"]
+        languages: ["Python", "C", "C++", "JavaScript", "SQL", "LaTeX"],
+        frameworks: ["Django", "Flask", "FastAPI", "React.js", "Express.js", "Node.js", "Selenium"],
+        libraries: ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", "Scikit-learn", "Celery", "Django Channels"],
+        tools: ["Git", "GitHub", "Linux", "Vim", "Emacs", "Excel", "Redis", "MongoDB", "BeautifulSoup"],
+        domains: ["Web Development", "Data Science", "Machine Learning", "Graphic Design", "Embedded Systems"]
     },
-    currentlyLearning: ["AI engineering", "distributed systems"],
+
+    currentlyWorkingOn: [
+        "AI-powered job automation tool",
+    ],
+
+    projects: [
+        "redbud",
+        "django-chat-app",
+        "Flask-Blog",
+        "Dashboard-App",
+        "orgtodo",
+        "zinnia",
+        "attendance_calculator",
+        "gmail-rulemaster",
+        "ml",
+        "invoice-generator",
+        "event-management-application",
+        "secret-santa",
+        "college-management-system",
+        "shopify_product_showcase",
+        "taskmanager",
+        "dataup",
+        "django_blog",
+        "full_stack",
+    ]
 }
+
 ```
+
